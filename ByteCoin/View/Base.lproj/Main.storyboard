@@ -99,7 +99,7 @@
                     </view>
                     <connections>
                         <outlet property="bitcoinLabel" destination="N2a-Ax-iRV" id="rZG-c3-dOZ"/>
-                        <outlet property="currencyLabel" destination="N2a-Ax-iRV" id="gHE-A2-wS9"/>
+                        <outlet property="currencyLabel" destination="MAn-y0-nXv" id="9fc-Yj-30L"/>
                         <outlet property="currencyPicker" destination="ct2-jk-pgH" id="Def-xf-uXA"/>
                     </connections>
                 </viewController>
